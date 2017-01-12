@@ -28,7 +28,7 @@
     "mongodb": "^2.2.11",
     "mongojs": "orta/mongojs#module_import",
     "node-fetch": "^1.6.3",
-    "typescript": "^2.1.4"
+    "typescript": "^2.1.5"
   },
   "engines": {
     "node": "7.2.1"
